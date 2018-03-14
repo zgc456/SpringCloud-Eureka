@@ -1,0 +1,4 @@
+include 'eureka-server1'
+include 'eureka-server2'
+include 'eureka-test'
+
